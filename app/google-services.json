@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394747622857",
+    "firebase_url": "https://signupgarageproj.firebaseio.com",
+    "project_id": "signupgarageproj",
+    "storage_bucket": "signupgarageproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394747622857:android:aa5324143006d647",
+        "android_client_info": {
+          "package_name": "com.example.siam.signupgarageproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394747622857-8h3ulkgofc3hhh7p1l9i9jc6kjr1de48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siam.signupgarageproj",
+            "certificate_hash": "1eda9390a6294876c426d2583bcef6f2b508cba1"
+          }
+        },
+        {
+          "client_id": "394747622857-37plvivejsvicivjg322emof14t3f8f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMIjHO5TOW8DeIVL2ybqSZ-bhdAqJ_oM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394747622857-37plvivejsvicivjg322emof14t3f8f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
